@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WoefulNebula
 - 👀 I’m interested in volunteer projects
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on volunteer projects for causes inside the US
 - 📫 How to reach me 
 
