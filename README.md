@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aliciadshi
-- 👀 I’m interested in volunteer projects
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on volunteer projects for causes inside the US
-- 📫 How to reach me 
+Hi, I’m @aliciadshi
+I’m currently studying computer science at SJSU
+I’m looking to collaborate on volunteer projects for causes inside the US
+How to reach me: destinyshi@gmail.com
 
 <!---
 aliciadshi/aliciadshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
