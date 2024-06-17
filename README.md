@@ -2,8 +2,6 @@ Hi, I’m @aliciadshi
 
 I’m currently studying computer science at SJSU
 
-I’m looking to collaborate on volunteer projects for causes inside the US
-
 How to reach me: destinyshi@gmail.com
 
 <!---
